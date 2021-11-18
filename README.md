@@ -26,3 +26,6 @@
 
 ## Calendar
 ![](UI%20Images/Calendar.png)
+
+## Timeline
+![](UI%20Images/Timeline.png)
